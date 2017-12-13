@@ -1,0 +1,26 @@
+Timeout ? 60
+Memory ? 15000
+AddIntermediateStates ? true
+Seed ? 1
+Runs ? 1
+Domain ? DynamicCar
+PropagationStepSize ? 0.05
+MinControlDuration ? 1
+MaxControlDuration ? 100
+GoalRadius ? 0.1
+Start ? 0 0
+Goal ? 0 -25
+EnvironmentBounds ? -30 30 -30 30
+EnvironmentMesh ? forest.dae
+AgentMesh ? car2_planar_robot.dae
+Planner ? gust
+PRMSize ? 100
+Alpha ? 8
+B ? 0.85
+Delta ? 0.15
+Beta ? 0.85
+UseSplit ? 1
+StateRadius ? 6
+NumEdges ? 5
+Output ? gust-output
+#MaxRegion ? 2
