@@ -23,5 +23,3 @@ http://ompl.kavrakilab.org/download.html
 For any furuture question  please send me e-mail
 Mostafa Hussein
 mah1075@cs.unh.edu
-# MotionPlanning
-# MotionPlanning
